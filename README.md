@@ -52,7 +52,7 @@ Make sure you have the following installed on your machine:
    git clone <your-repo-url>
    cd <your-repo-folder>
 
-npm install
-npx json-server --watch db.json --port 5001
-npm run dev
-Navigate to http://localhost:3000 to view the application.
+2.npm install
+3.npx json-server --watch db.json --port 5001
+4.npm run dev
+5.Navigate to http://localhost:3000 to view the application.
